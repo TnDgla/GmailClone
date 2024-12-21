@@ -173,7 +173,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [React Testing Guide](https://www.youtube.com/watch?v=8Xwq35cPwYg)
   2. Deploy the frontend to Vercel and the backend to Render.
      - **Reading:** [Deploying React Apps](https://vercel.com/docs)
-     - **Video:** [Deploying Full-Stack Apps](https://www.youtube.com/watch?v=8qrJ4zN6lno)
+     - **Video:** [Deploying Full-Stack Apps](https://www.youtube.com/watch?v=b2bIdtSwDhc&t=393s)
 
 - **Deliverables:**
   - Fully deployed Gmail Clone accessible via a public URL.
