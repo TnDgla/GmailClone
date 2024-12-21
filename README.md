@@ -93,10 +93,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Create the header component using Material-UI.
      - **Reading:** [Material-UI AppBar](https://mui.com/components/app-bar/)
-     - **Video:** [Header Component in React](https://www.youtube.com/watch?v=bDNy1pF0jqA)
+     - **Video:** [Header Component in React](https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)
   2. Build a sidebar for navigation (Inbox, Sent, Starred, etc.).
      - **Reading:** [Material-UI Drawer](https://mui.com/components/drawers/)
-     - **Video:** [React Sidebar Tutorial](https://www.youtube.com/watch?v=RN-XKcf8CgQ)
+     - **Video:** [React Sidebar Tutorial](https://www.youtube.com/watch?v=wnCYd0l1OJw)
   3. Add routing for different pages (Inbox, Sent, Drafts, etc.).
      - **Reading:** [React Router Documentation](https://reactrouter.com/)
      - **Video:** [React Router Setup](https://www.youtube.com/watch?v=Ul3y1LXxzdU)
