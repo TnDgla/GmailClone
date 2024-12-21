@@ -131,13 +131,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Implement the "Compose Email" feature.
      - **Reading:** [Material-UI TextField](https://mui.com/components/text-fields/)
-     - **Video:** [React Form Handling](https://www.youtube.com/watch?v=KErVJIa04eI)
+     - **Video:** [React Form Handling](https://www.youtube.com/watch?v=Nm_IHH4iOx4)
   2. Display emails in the inbox, sent, and draft sections.
      - **Reading:** [React State Management](https://react.dev/learn/managing-state)
      - **Video:** [React State Tutorial](https://www.youtube.com/watch?v=35lXWvCuM8o)
   3. Implement email deletion and trash management.
      - **Reading:** [React Conditional Rendering](https://react.dev/learn/conditional-rendering)
-     - **Video:** [React Conditional Rendering Guide](https://www.youtube.com/watch?v=5FGUTgXz3Kk)
+     - **Video:** [React Conditional Rendering Guide](https://www.youtube.com/watch?v=96DGjqlAIxs)
 
 - **Deliverables:**
   - Functional email sending and saving features.
