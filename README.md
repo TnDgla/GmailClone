@@ -76,7 +76,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Getting Started with Node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4)
   2. Set up React with Material-UI.
      - **Reading:** [React.js Documentation](https://react.dev/blog/2023/03/16/introducing-react-dev)
-     - **Video:** [Material-UI Setup](https://www.youtube.com/watch?v=O4AjymzpIEg)
+     - **Video:** [React.js tutorial](https://www.youtube.com/watch?v=SqcY0GlETPk&t=137s)
+     - **Video:** [Material-UI Setup](https://www.youtube.com/watch?v=Xoz31I1FuiY&t=116s)
   3. Create the project folder structure:
      - Frontend folder (`/client`) for React.
      - Backend folder (`/server`) for Express.js APIs.
