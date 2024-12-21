@@ -153,10 +153,10 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Search Feature in React](https://www.youtube.com/watch?v=x7niho285qs)
   2. Implement starring emails and filtering starred messages.
      - **Reading:** [React Events](https://react.dev/reference/react/events)
-     - **Video:** [Event Handling in React](https://www.youtube.com/watch?v=83I6vsrCPXg)
+     - **Video:** [Event Handling in React](https://www.youtube.com/watch?v=cXkwFjBrWfk)
   3. Add error handling and validations.
-     - **Reading:** [Error Boundaries in React](https://react.dev/reference/react/ErrorBoundary)
-     - **Video:** [Handling Errors in React](https://www.youtube.com/watch?v=Mr4V6oP8kYA)
+     - **Reading:** [Error Boundaries in React](https://www.npmjs.com/package/react-error-boundary)
+     - **Video:** [Handling Errors in React](https://www.youtube.com/watch?v=_FuDMEgIy7I&t=91s)
 
 - **Deliverables:**
   - Search bar for finding specific emails.
