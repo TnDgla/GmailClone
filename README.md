@@ -112,7 +112,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Create an Express.js server and connect to MongoDB.
      - **Reading:** [Express.js Basics](https://expressjs.com/)
-     - **Video:** [Connecting Node.js to MongoDB](https://www.youtube.com/watch?v=E0q3zA2a9Hk)
+     - **Video:** [Express.js tutorial]([https://www.youtube.com/watch?v=E0q3zA2a9Hk](https://www.youtube.com/watch?v=7H_QH9nipNs&t=796s))
   2. Design database schemas for users and emails.
      - **Reading:** [MongoDB Schema Design](https://mongoosejs.com/docs/guide.html)
      - **Video:** [MongoDB Models Tutorial](https://www.youtube.com/watch?v=DZBGEVgL2eE)
